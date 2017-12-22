@@ -1,0 +1,7 @@
+In this project IRIS Dataset is used to analyze and predict the type of flowers
+
+In this project Shiny Application(IrisvisualUsingShiny folder) is also build to show the relationship between different flowers(their sepals and petals length and width)
+
+Different Machine learning algorithm are used to predict type of flowers which are presented in the file MachinelearningIris.R 
+
+In this project data is visualized using R programming language also and the visualization code is presented in VisualizationIris.R
